@@ -36,7 +36,6 @@ Program to find the LU Decomposition of a matrix.
 Developed by: dhanappriya s
 RegisterNumber: 212224230056
 */
-```
 import numpy as np
 from scipy.linalg import lu_factor, lu_solve
 A = np.array(eval(input()))
